@@ -119,9 +119,9 @@ STATICFILES_DIRS = [
 # MEDIA_URL = '/images/'
 
 CLOUDINARY_STORAGE = {
-    'CLOUD_NAME': 'dijc6kimq',
-    'API_KEY': '679259698988675',
-    'API_SECRET': 'neJDVNMaENj1ZT_KVyiOMot0A7w'
+    'CLOUD_NAME': '',
+    'API_KEY': '',
+    'API_SECRET': ''
 }
 
 DEFAULT_FILE_STORAGE = 'cloudinary_storage.storage.MediaCloudinaryStorage'
